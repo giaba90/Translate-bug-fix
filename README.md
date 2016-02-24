@@ -1,2 +1,5 @@
-# Translate-bug-fix
-Bug fix for translate post
+# README
+.1
+.2
+.2
+
