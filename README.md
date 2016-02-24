@@ -6,6 +6,7 @@
 
 1. Cos'è
 --------
+
 È un semplice codice javascript che ho pensato di scrivere come rimedio temporaneo al tuo problema.
 Il file contiene 3 funzioni:
 - translate(lang) : è la funzione principale che prendere in ingresso come parametro, la lingua in cui verrà tradotta la pagina
@@ -14,6 +15,7 @@ Il file contiene 3 funzioni:
 
 2. Come si attiva
 -----------------
+
 Bisogna aggiungerlo alla coda dei file javascript di wordpress o in alternativa lo copi ed incolli nel template di pagina.
 
 3. Come funziona
