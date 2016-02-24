@@ -1,5 +1,5 @@
     function translate(lang) {
-        var url = 'http://localhost:8888/piscina/?p='; //redirect url
+        var url = 'http://miosito.it/?p='; //redirect url
         var arrayPostEn = ['2','10','5'];
         var arrayPostIt = ['4','11','7'];
         var idPost = getParameterByName('p'); // get id from current url
